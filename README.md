@@ -1,2 +1,4 @@
-hallo ich bin ferferak 
-ich lerne phyton und habe ich ein network plus course gemacht.
+hello i'm ferferak!
+i'm an extroverter coffe holic who loves coding
+currently leaning python.
+
